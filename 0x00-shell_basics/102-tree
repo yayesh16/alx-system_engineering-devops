@@ -1,2 +1,2 @@
 #!/bin/bash
-mv -r ./*[A-Z]* /tmp/u/
+mkdir -p welcome/ welcome/to/  welcome/to/school
